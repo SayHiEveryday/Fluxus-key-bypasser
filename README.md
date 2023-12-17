@@ -28,5 +28,15 @@ python3 main.py
 
 ## Get start (Windows)
 
+> [!WARNING]
+> THIS IS FOR BYPASSING FLUXUS MOBILE ONLY AS ONLY MOBILE ARE WORKING
+
 1. Download python from https://www.python.org/
-2. 
+2. Download file from release
+3. Open cmd then type
+```
+pip install requests
+```
+4. Open the file to get start
+------------------------------------------------
+This repository is licensed under the [MIT License](https://mit-license.org/).
