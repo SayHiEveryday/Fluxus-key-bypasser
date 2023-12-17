@@ -25,3 +25,8 @@ pip install requests
 python3 main.py
 ```
 6.then paste your fluxus link in it
+
+## Get start (Windows)
+
+1. Download python from https://www.python.org/
+2. 
